@@ -70,7 +70,7 @@ Each role has specific features and access levels.
 
 | Name | Role | Email |
 |------|------|-------|
-| System Admin | admin | admin@gmail.com |
+| Guest House Admin | admin | admin@gmail.com |
 | Conference Admin | register | register@gmail.com |
 | PE Admin | pe_admin | peadmin@gmail.com |
 | Jakir Hossain | teacher | j@gmail.com |
@@ -78,6 +78,7 @@ Each role has specific features and access levels.
 | Golam Mostofa | teacher | g@gmail.com |
 | Anika Jahan | teacher | a@gmail.com |
 | Angel Sadia | staff | angel@gmail.com |
+|Biswadev Biswas | student | bb@gmail.com |
 | Munna | student | m@gmail.com |
 
 ---
